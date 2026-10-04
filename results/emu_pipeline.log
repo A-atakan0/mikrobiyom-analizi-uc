@@ -1,0 +1,156 @@
+nohup: ignoring input
+BC27_01 zaten islenmis, atlaniyor.
+BC28_01 siniflandiriliyor...
+[M::mm_idx_gen::1.399*1.27] collected minimizers
+[M::mm_idx_gen::1.598*1.61] sorted minimizers
+[M::main::1.602*1.61] loaded/built the index for 49243 target sequence(s)
+[M::mm_mapopt_update::1.612*1.61] mid_occ = 14113
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 49243
+[M::mm_idx_stat::1.620*1.60] distinct minimizers: 462637 (45.14% are singletons); average occurrences: 28.757; average spacing: 5.572; total length: 74133434
+[M::worker_pipeline::1042.031*3.98] mapped 39535 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -ax map-ont -t 4 -N 50 -p .9 -K 500000000 -o results/emu/BC28_01/BC28_01_emu_alignments.sam ref/emu_db/species_taxid.fasta data/filtered/MES_0/BC28_01.fastq
+[M::main] Real time: 1042.060 sec; CPU: 4151.625 sec; Peak RSS: 0.919 GB
+Unmapped read count: 0
+Filtered read count: 0
+Filtered 0 alignments outside aligned query length bounds (min_align_len=0, max_align_len=2000).
+Filtered 0 alignments below min-pid (0%) threshold.
+Mapped read count: 39535
+Number of EM iterations: 25
+Unclassified mapped read count: 155
+BC28_01 TAMAMLANDI.
+BC52_01 siniflandiriliyor...
+[M::mm_idx_gen::1.234*1.27] collected minimizers
+[M::mm_idx_gen::1.424*1.62] sorted minimizers
+[M::main::1.427*1.62] loaded/built the index for 49243 target sequence(s)
+[M::mm_mapopt_update::1.438*1.62] mid_occ = 14113
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 49243
+[M::mm_idx_stat::1.445*1.61] distinct minimizers: 462637 (45.14% are singletons); average occurrences: 28.757; average spacing: 5.572; total length: 74133434
+[M::worker_pipeline::1290.228*3.98] mapped 59141 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -ax map-ont -t 4 -N 50 -p .9 -K 500000000 -o results/emu/BC52_01/BC52_01_emu_alignments.sam ref/emu_db/species_taxid.fasta data/filtered/MES_0/BC52_01.fastq
+[M::main] Real time: 1290.257 sec; CPU: 5141.328 sec; Peak RSS: 1.170 GB
+Unmapped read count: 0
+Filtered read count: 0
+Filtered 0 alignments outside aligned query length bounds (min_align_len=0, max_align_len=2000).
+Filtered 0 alignments below min-pid (0%) threshold.
+Mapped read count: 59141
+Number of EM iterations: 32
+Unclassified mapped read count: 157
+BC52_01 TAMAMLANDI.
+BC73_01 siniflandiriliyor...
+[M::mm_idx_gen::1.195*1.24] collected minimizers
+[M::mm_idx_gen::1.373*1.58] sorted minimizers
+[M::main::1.376*1.58] loaded/built the index for 49243 target sequence(s)
+[M::mm_mapopt_update::1.387*1.58] mid_occ = 14113
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 49243
+[M::mm_idx_stat::1.394*1.58] distinct minimizers: 462637 (45.14% are singletons); average occurrences: 28.757; average spacing: 5.572; total length: 74133434
+[M::worker_pipeline::1005.213*3.98] mapped 44064 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -ax map-ont -t 4 -N 50 -p .9 -K 500000000 -o results/emu/BC73_01/BC73_01_emu_alignments.sam ref/emu_db/species_taxid.fasta data/filtered/MES_0/BC73_01.fastq
+[M::main] Real time: 1005.236 sec; CPU: 3996.688 sec; Peak RSS: 1.137 GB
+Unmapped read count: 0
+Filtered read count: 0
+Filtered 0 alignments outside aligned query length bounds (min_align_len=0, max_align_len=2000).
+Filtered 0 alignments below min-pid (0%) threshold.
+Mapped read count: 44064
+Number of EM iterations: 39
+Unclassified mapped read count: 155
+BC73_01 TAMAMLANDI.
+BC86_01 siniflandiriliyor...
+[M::mm_idx_gen::1.280*1.26] collected minimizers
+[M::mm_idx_gen::1.460*1.56] sorted minimizers
+[M::main::1.463*1.56] loaded/built the index for 49243 target sequence(s)
+[M::mm_mapopt_update::1.474*1.56] mid_occ = 14113
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 49243
+[M::mm_idx_stat::1.483*1.56] distinct minimizers: 462637 (45.14% are singletons); average occurrences: 28.757; average spacing: 5.572; total length: 74133434
+[M::worker_pipeline::571.358*3.98] mapped 26776 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -ax map-ont -t 4 -N 50 -p .9 -K 500000000 -o results/emu/BC86_01/BC86_01_emu_alignments.sam ref/emu_db/species_taxid.fasta data/filtered/MES_0/BC86_01.fastq
+[M::main] Real time: 571.385 sec; CPU: 2272.344 sec; Peak RSS: 1.158 GB
+Unmapped read count: 0
+Filtered read count: 0
+Filtered 0 alignments outside aligned query length bounds (min_align_len=0, max_align_len=2000).
+Filtered 0 alignments below min-pid (0%) threshold.
+Mapped read count: 26776
+Number of EM iterations: 16
+Unclassified mapped read count: 155
+BC86_01 TAMAMLANDI.
+BC35_01 siniflandiriliyor...
+[M::mm_idx_gen::1.188*1.25] collected minimizers
+[M::mm_idx_gen::1.364*1.59] sorted minimizers
+[M::main::1.367*1.59] loaded/built the index for 49243 target sequence(s)
+[M::mm_mapopt_update::1.377*1.59] mid_occ = 14113
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 49243
+[M::mm_idx_stat::1.384*1.58] distinct minimizers: 462637 (45.14% are singletons); average occurrences: 28.757; average spacing: 5.572; total length: 74133434
+[M::worker_pipeline::4696.249*3.91] mapped 167614 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -ax map-ont -t 4 -N 50 -p .9 -K 500000000 -o results/emu/BC35_01/BC35_01_emu_alignments.sam ref/emu_db/species_taxid.fasta data/filtered/MES_3/BC35_01.fastq
+[M::main] Real time: 4696.313 sec; CPU: 18349.047 sec; Peak RSS: 1.912 GB
+Unmapped read count: 0
+Filtered read count: 0
+Filtered 0 alignments outside aligned query length bounds (min_align_len=0, max_align_len=2000).
+Filtered 0 alignments below min-pid (0%) threshold.
+Mapped read count: 167614
+Number of EM iterations: 33
+Unclassified mapped read count: 212
+Unclassified mapped read count for min abundance threshold 0.0001: 296
+BC35_01 TAMAMLANDI.
+BC49_01 siniflandiriliyor...
+[M::mm_idx_gen::1.794*1.32] collected minimizers
+[M::mm_idx_gen::2.075*1.66] sorted minimizers
+[M::main::2.080*1.66] loaded/built the index for 49243 target sequence(s)
+[M::mm_mapopt_update::2.094*1.66] mid_occ = 14113
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 49243
+[M::mm_idx_stat::2.105*1.65] distinct minimizers: 462637 (45.14% are singletons); average occurrences: 28.757; average spacing: 5.572; total length: 74133434
+[M::worker_pipeline::700.576*3.88] mapped 23088 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -ax map-ont -t 4 -N 50 -p .9 -K 500000000 -o results/emu/BC49_01/BC49_01_emu_alignments.sam ref/emu_db/species_taxid.fasta data/filtered/MES_3/BC49_01.fastq
+[M::main] Real time: 700.593 sec; CPU: 2718.922 sec; Peak RSS: 0.816 GB
+Unmapped read count: 0
+Filtered read count: 0
+Filtered 0 alignments outside aligned query length bounds (min_align_len=0, max_align_len=2000).
+Filtered 0 alignments below min-pid (0%) threshold.
+Mapped read count: 23088
+Number of EM iterations: 13
+Unclassified mapped read count: 155
+BC49_01 TAMAMLANDI.
+BC61_01 siniflandiriliyor...
+[M::mm_idx_gen::1.766*1.27] collected minimizers
+[M::mm_idx_gen::2.051*1.62] sorted minimizers
+[M::main::2.055*1.61] loaded/built the index for 49243 target sequence(s)
+[M::mm_mapopt_update::2.069*1.61] mid_occ = 14113
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 49243
+[M::mm_idx_stat::2.079*1.61] distinct minimizers: 462637 (45.14% are singletons); average occurrences: 28.757; average spacing: 5.572; total length: 74133434
+[M::worker_pipeline::958.365*3.89] mapped 26443 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -ax map-ont -t 4 -N 50 -p .9 -K 500000000 -o results/emu/BC61_01/BC61_01_emu_alignments.sam ref/emu_db/species_taxid.fasta data/filtered/MES_3/BC61_01.fastq
+[M::main] Real time: 958.397 sec; CPU: 3723.359 sec; Peak RSS: 1.128 GB
+Unmapped read count: 0
+Filtered read count: 0
+Filtered 0 alignments outside aligned query length bounds (min_align_len=0, max_align_len=2000).
+Filtered 0 alignments below min-pid (0%) threshold.
+Mapped read count: 26443
+Number of EM iterations: 48
+Unclassified mapped read count: 257
+BC61_01 TAMAMLANDI.
+BC62_01 siniflandiriliyor...
+[M::mm_idx_gen::1.743*1.30] collected minimizers
+[M::mm_idx_gen::2.004*1.61] sorted minimizers
+[M::main::2.010*1.61] loaded/built the index for 49243 target sequence(s)
+[M::mm_mapopt_update::2.024*1.61] mid_occ = 14113
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 49243
+[M::mm_idx_stat::2.037*1.60] distinct minimizers: 462637 (45.14% are singletons); average occurrences: 28.757; average spacing: 5.572; total length: 74133434
+[M::worker_pipeline::1331.404*3.95] mapped 59139 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -ax map-ont -t 4 -N 50 -p .9 -K 500000000 -o results/emu/BC62_01/BC62_01_emu_alignments.sam ref/emu_db/species_taxid.fasta data/filtered/MES_3/BC62_01.fastq
+[M::main] Real time: 1331.415 sec; CPU: 5260.578 sec; Peak RSS: 1.253 GB
+Unmapped read count: 9
+Filtered read count: 0
+Filtered 0 alignments outside aligned query length bounds (min_align_len=0, max_align_len=2000).
+Filtered 0 alignments below min-pid (0%) threshold.
+Mapped read count: 59130
+Number of EM iterations: 21
+Unclassified mapped read count: 142
+BC62_01 TAMAMLANDI.
+TUM ORNEKLER ISLENDI.

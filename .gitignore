@@ -1,0 +1,8 @@
+data/16S_rRNA_raw_fastq/
+data/16S_rRNA_raw_fastq.rar
+data/filtered/
+ref/emu_db/
+results/emu/*/
+results/qc/
+__pycache__/
+*.pyc
